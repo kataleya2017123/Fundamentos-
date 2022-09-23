@@ -1,13 +1,14 @@
+//modificado por janeth altafuya mideros
 #include<iostream>
 using namespace std;
 
 int main()
 {
-      float v,d,t;
-      cout<<"Ingrese la distancia(en km) d= "; cin>>d;
-      cout<<"Ingrese el tiempo(en horas)  t= "; cin>>t;
-      v=d/t;
-      cout<<"La velocidad calculada es de v= "<<v<<endl<<endl;
+      float j,a,m;
+      cout<<"Ingrese la distancia(en km) j= "; cin>>j;
+      cout<<"Ingrese el tiempo(en horas)  a= "; cin>>a;
+      m=j/a;
+      cout<<"La velocidad calculada es de m= "<<m<<endl<<endl;
       return 0;
 					  
 					  
