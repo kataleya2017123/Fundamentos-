@@ -1,11 +1,12 @@
+//modificado por janeth altafuya mideros
 #include <iostream>
 using namespace std;
 int main ()
-{	float x,y,z;
-        cout<< "ingrese dos numerosseparados de espacio x y:";
-	cin>>x>>y;
-	z=x+y;
+{	float j,a,m;
+        cout<< "ingrese dos numerosseparados de espacio j a:";
+	cin>>j>>a;
+	m=j+a;
 	cout<<"El resultado es: ";
-	cout<<z<<endl;
+	cout<<m<<endl;
 	return 0;
 }
