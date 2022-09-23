@@ -2,7 +2,7 @@
 
 
 
-
+//janeth altafuya mideros
 #include<iostream>
 using namespace std;
 int main()
